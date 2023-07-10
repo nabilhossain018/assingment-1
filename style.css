@@ -61,3 +61,45 @@ font-size: large;
 line-height: 1.50;
 
 }
+/* main div boxes related styles */
+.boxes{
+display: flex;
+justify-content: space-around;
+margin: 80px 240px 0px 240px;
+}
+.box-h4{
+text-align: center;
+text-decoration: underline;
+margin-top: 10px;
+}
+.box-one-image{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15); 
+    width: 464px;
+    height: 538px;
+  
+
+
+}
+.one-image{
+      margin: 110px 0px 0px 67px
+}
+.box-two-image{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+
+}
+.two-image{
+    margin: 73px 0px 95px 60px;
+}
+.box-three-image{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 464px;
+    height: 538px;
+}
+.three-image{
+    margin: 67px 0px 0px 83px;
+}
