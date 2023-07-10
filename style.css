@@ -238,20 +238,60 @@ margin-right: 24px;
  }
  /* section seven related styles */
  .section-seven{
-
- }
+    width: 1440px;
+    height: 449px;
+    background-color: #4990ec;
+    background-image: url("Flower\ Asset/back.png");
+    margin: 128px 0px 0px 240px;
+    }
  .section-seven-div{
-
+text-align: center;
  }
  .section-seven-div > h2{
-
+font-size: 40px;
+font-weight: 700;
+padding: 100px 0px 10px 0px;
  }
  .section-seven-div > p{
-
+font-weight: 400;
+color: rgba(39, 39, 39, 0.60);
+padding-bottom: 48px;
  }
  .div-input{
+    display: flex;
+   
+ }
+
+ .div-input > input{
+    height: 64px;
+    width: 700px;
+    border-radius: 8px;
+    border: 1px solid white ;
+    margin: 0px 0px 0px 287px;
 
  }
+ .div-input > input::placeholder{
+    padding-left: 22px;
+    font-weight: 400;
+    font-size: 20px;
+ }
  .div-input > button{
-    
+    width: 150px;
+    height: 69px;
+    color: white;
+    font-weight: 700;
+   font-size: 20px;
+    border-radius: 8px;
+background: #E55473;
+margin-left: 16px
+ } 
+ /* footer related styles */
+ .footer-div {
+
+ }
+ .footer-div > h2 { 
+
+ }
+ .footer-div > hi > span {
+color: #E55473;
  }
