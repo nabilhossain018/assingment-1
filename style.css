@@ -103,3 +103,25 @@ margin-top: 10px;
 .three-image{
     margin: 67px 0px 0px 83px;
 }
+/* section related styles */
+.three-boxes{
+    height: 320px;
+    width: 1440px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 112px 0px 93px 235px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.box-one{
+    margin-left: 200px;
+    text-align: center;
+}
+.box-two{
+ text-align: center;
+}
+.box-three{
+    margin-right: 200px;
+     text-align: center ;
+    }
