@@ -211,3 +211,47 @@ padding-bottom: 40px;
  .section-five-image{
     margin: 18px 433px 0px 0px;
  }
+ /* section-six related styles */
+ .section-six{
+text-align: center;
+margin-top: 128px;
+
+
+ }
+ .section-six > h2{
+font-size: 40px;
+
+ }
+ .section-six > p{
+    margin-top: 20px;
+    font-weight: bold;
+    color: rgba(39, 39, 39, 0.60);
+ }  
+ /* 4 image related syles */
+ .section-six-four-image{
+    display: flex;
+    margin: 48px 0px 0px 245px;
+
+ }
+ .section-six-four-image > img{
+margin-right: 24px;
+ }
+ /* section seven related styles */
+ .section-seven{
+
+ }
+ .section-seven-div{
+
+ }
+ .section-seven-div > h2{
+
+ }
+ .section-seven-div > p{
+
+ }
+ .div-input{
+
+ }
+ .div-input > button{
+    
+ }
