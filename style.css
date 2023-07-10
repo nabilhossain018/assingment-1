@@ -28,7 +28,8 @@ justify-content: space-between;
    
 font-size: 18px;
 font-weight: bold;
-opacity: 0.50;
+/* opacity: 0.50; */
+color: rgba(39, 39, 39, 0.60);
 padding-bottom: 32px;
 }
 .child-div-btn{
@@ -55,7 +56,8 @@ font-weight: bold;
 padding-bottom: 15px;
 }
 .main-div-para{
-opacity: 0.50;
+/* opacity: 0.50; */
+color: rgba(39, 39, 39, 0.60);
 font-weight: bold;
 font-size: large;
 line-height: 1.50;
@@ -129,11 +131,83 @@ margin-top: 10px;
  .two-achor{
    height: 500px;
    width: 100%;
-   background-color: #E55473;
-   background-image: url('');
+   background-image: linear-gradient(200deg, #4990ec 0%, rgba(241, 91, 34, 0.00) 100%),url(https://i.pinimg.com/originals/fd/ce/20/fdce20cda01d2a46987dee013ec29f7d.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   color: rgb(255, 255, 255);
  }
- .four-section-image{
+ .section-four-h1{
+font-size: 30px;
+ }
+ .section-four-btn{
+    border-radius: 10px;
+    height: 70px;
+    width: 184px;
+    background-color: #E55473;
+    color: azure;
+    font-size: larger;
+    font-weight: bold;
+    margin-right: 40px;
+    
+}
+.section-four-h1{
+padding-bottom: 20px;
+}
+.section-four-btn > a{
+    text-decoration: none;
+    color: aliceblue;
+    
+}
+.section-four-div{
+    padding: 104px 1px 4px 182px;
 
- }
+
+}
+.section-four-div > h3{
+    padding-bottom: 20px;
+    color: rgba(255, 255, 255, 0.815);
+}
+
  /* section five related styles */
- 
+ .section-five{
+    border-radius: 8px;
+background: #e9643046;
+margin-top: 141px;
+align-items: center;
+display: flex;
+justify-content: space-between;
+height: 620px;
+ }
+ .section-five-div{
+text-align: center;
+margin: 16px 0px 0px 358px
+ }
+ .section-five-div > h2{
+    font-size: 40px;
+    font-weight: 900;
+    padding-bottom: 30px;
+ }
+ .section-five-div > h2 > span{
+    color: #E55473;
+ }
+ .section-five-div > p{
+font-weight: bold;
+color: rgba(39, 39, 39, 0.60);
+/* opacity: 0.50; */
+padding-bottom: 40px;
+ }
+ .section-five-div > button{
+    border-radius: 10px;
+    height: 55px;
+    width: 150px;
+    background-color: #E55473;
+    color: azure;
+    font-size: larger;
+    font-weight: bold;
+    margin-right: 40px;
+    
+ }
+ .section-five-image{
+    margin: 18px 433px 0px 0px;
+ }
