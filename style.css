@@ -3,6 +3,9 @@
     padding: 0px;
     font-family: system-ui;
 }
+body{
+    width: 1922px;
+}
 
 /* section-one related styles */
 .section-one{
@@ -171,6 +174,7 @@ padding-bottom: 20px;
 
  /* section five related styles */
  .section-five{
+    
     border-radius: 8px;
 background: #e9643046;
 margin-top: 141px;
@@ -242,7 +246,7 @@ margin-right: 24px;
     height: 449px;
     background-color: #4990ec;
     background-image: url("Flower\ Asset/back.png");
-    margin: 128px 0px 0px 240px;
+    margin: 128px 0px 128px 240px;
     }
  .section-seven-div{
 text-align: center;
@@ -287,11 +291,33 @@ margin-left: 16px
  } 
  /* footer related styles */
  .footer-div {
-
+    width: 1922px;
+height: 449px;
+background-color: #272727;
+color: white ;
+text-align: center;
+padding-top: 160px;
  }
- .footer-div > h2 { 
-
- }
- .footer-div > hi > span {
+.footer-h2{
+font-size: 48px;
+font-weight: 800;
+}
+.footer-h2 > span {
 color: #E55473;
- }
+}
+
+.footer-para{
+padding-top: 15px;
+}
+
+
+.footer-footer-div{
+    color: white;
+}
+.footer-div-footer{
+    color: azure;
+}
+.footer-hr{
+    width: 50%;
+    margin: 32px 0px 0px 475.75px;
+}
