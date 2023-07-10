@@ -14,7 +14,8 @@ display: flex;
 justify-content: space-between;
 }
 .child-div{
-    margin: 200px 0px 0px 240px;
+    margin: 210px 0px 0px 265px;}
+
     
 .child-div-h2{
     color: #272727;
@@ -41,7 +42,22 @@ padding-bottom: 32px;
     background-color:#E55473; 
 }
 .child-image{
-  height: 800px;
-  width: 635px;  
-  margin: 50px 147px 0px 0px
+    margin: 50px 240px 0px 0px;   
+}
+/* main related styles */
+.main-div-one{
+text-align: center;
+margin-top: 150px;
+}
+.main-div-h3{
+font-size: x-large;
+font-weight: bold;
+padding-bottom: 15px;
+}
+.main-div-para{
+opacity: 0.50;
+font-weight: bold;
+font-size: large;
+line-height: 1.50;
+
 }
