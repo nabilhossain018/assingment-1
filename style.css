@@ -6,7 +6,7 @@
 
 /* section-one related styles */
 .section-one{
-background: rgba(229, 84, 115, 0.10);
+background: rgba(121, 214, 58, 0.205);
 height: 850px;
 }
 .parent-div{
@@ -124,4 +124,16 @@ margin-top: 10px;
 .box-three{
     margin-right: 200px;
      text-align: center ;
-    }
+ }
+ /* four section related styles */
+ .two-achor{
+   height: 500px;
+   width: 100%;
+   background-color: #E55473;
+   background-image: url('');
+ }
+ .four-section-image{
+
+ }
+ /* section five related styles */
+ 
