@@ -22,7 +22,7 @@ justify-content: space-between;
     
 .child-div-h2{
     color: #272727;
-    font-size: 56px;
+    font-size: 69px;
     font-weight: 800;
     padding-bottom: 32px;
    
@@ -74,7 +74,9 @@ display: flex;
 justify-content: space-around;
 margin: 80px 240px 0px 240px;
 }
+ 
 .box-h4{
+    font-size: 24px;
 text-align: center;
 text-decoration: underline;
 margin-top: 10px;
